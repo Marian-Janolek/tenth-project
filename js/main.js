@@ -66,7 +66,7 @@ const sr = ScrollReveal({
     distance: '60px',
     duration: 1000,
     delay: 300,
-    // reset: true
+    reset: true
 })
 sr.reveal(`.home-header, .section-title`, {delay: 400})
 sr.reveal(`.home-footer`,{delay: 500})
