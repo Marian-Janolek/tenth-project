@@ -1,4 +1,5 @@
 ## Responsive Headphones Website
+### [Live Site](https://thetenthproject.netlify.app/)
 
 - One of many of my pure HTML CSS and JAVASCRIPT projects. 
 - It's landing page about headphones, which contains basic infrmation about product, price and list of products.
